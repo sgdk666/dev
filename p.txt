@@ -1,11 +1,15 @@
-git config --global sgdk666
+git config --global user.name "sgdk666"
 
 
 
-git config --2558488775mww@gmail.com
+git config --global user.email "2558488775mww@gmail.com"
+
+
+
+git clone https://github.com/sgdk666/dev.git
 
 
 
 
-git https://github.com/sgdk666/dev.git
+
 
