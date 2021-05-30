@@ -1,0 +1,11 @@
+git config --global sgdk666
+
+
+
+git config --2558488775mww@gmail.com
+
+
+
+
+git https://github.com/sgdk666/dev.git
+
